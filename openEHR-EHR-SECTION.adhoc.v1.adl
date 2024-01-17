@@ -2,7 +2,7 @@
 	openEHR-EHR-SECTION.adhoc.v1
 
 concept
-	[at0000]	-- Ad hoc heading
+	[at0000]	-- Ad hoc heading aaa
 language
 	original_language = <[ISO_639-1::en]>
 	translations = <
