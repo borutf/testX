@@ -2,7 +2,7 @@
 	openEHR-EHR-OBSERVATION.blood_pressure.v1
 
 concept
-	[at0000]	-- Blood Pressure
+	[at0000]	-- Blood Pressure & modification
 language
 	original_language = <[ISO_639-1::en]>
 	translations = <
